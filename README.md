@@ -1,1 +1,1 @@
-# pracownia
+# pracownia aplikacji internetowych
